@@ -1,5 +1,5 @@
 # AirBnB_clone
-## 🧐 About
+## About
 This is a Airbnb clone project that is built with the aim of learning and applying concepts of high level programming.
 
 ## 🏁 Getting started
